@@ -1,0 +1,9 @@
+.vscode/
+__pycache__/
+forecast/__pycache__/__init__.cpython-38.pyc
+forecast/__pycache__/utils.cpython-38.pyc
+figures/
+model_logs/
+generated_datasets/
+*.npy
+*.csv
