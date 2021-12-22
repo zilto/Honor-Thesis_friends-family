@@ -1,4 +1,6 @@
 # Friends and Family
+<img src="./docs/header.PNG" alt="drawing"/>
+
 ## Overview
 This repository contains work from my undergrad Honor thesis, realized under the supervision of Prof. Pierre Orban, and with the support of Rose Guay Hottin and Shivam Patel. The goal of the project was to predict the "next-day" self-reported levels of stress and happiness based on smartphone sensors. This includes measurements and signals from: Wi-Fi, Bluetooth, GPS, accelerometer, application usage, battery metadata, SMS logs, and call logs. This approach is part of the novel field of *Digital phenotyping* and aims to enable better monitoring of psychiatric conditions and adopt preventive actions. The project was realized using the Friends&Family dataset (http://realitycommons.media.mit.edu/friendsdataset.html).
 
